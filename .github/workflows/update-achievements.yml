@@ -2,7 +2,7 @@ name: Update achievements
 
 on:
   schedule:
-    - cron: '17,47 * * * *'
+    - cron: '0,30 * * * *'
   workflow_dispatch:
   push:
     branches: [main]
