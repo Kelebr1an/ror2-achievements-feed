@@ -1,10 +1,10 @@
 {
   "appid": 632360,
   "profile": "https://steamcommunity.com/id/Kelebr1an/",
-  "fetched_at": "2026-10-18T04:51:16Z",
+  "fetched_at": "2026-10-18T05:08:36Z",
   "total": 205,
-  "unlocked": 90,
-  "remaining": 115,
+  "unlocked": 93,
+  "remaining": 112,
   "achievements": [
     {
       "apiname": "AcolyteClearGameMonsoon",
@@ -1186,15 +1186,15 @@
       "apiname": "RailgunnerClearGameHexes",
       "name": "Railgunner: Against All Odds",
       "description": "As Railgunner, complete a run while holding 10 Hexes.",
-      "achieved": 0,
-      "unlocktime": 0
+      "achieved": 1,
+      "unlocktime": 1792299800
     },
     {
       "apiname": "RailgunnerClearGameMonsoon",
       "name": "Railgunner: Mastery",
       "description": "As Railgunner, beat the game or obliterate on Monsoon.",
-      "achieved": 0,
-      "unlocktime": 0
+      "achieved": 1,
+      "unlocktime": 1792299800
     },
     {
       "apiname": "RailgunnerClearMeridianEvent",
@@ -1214,8 +1214,8 @@
       "apiname": "RailgunnerDealMassiveDamage",
       "name": "Railgunner: Annihiliator",
       "description": "As Railgunner, deal 1,000,000 damage in one shot.",
-      "achieved": 0,
-      "unlocktime": 0
+      "achieved": 1,
+      "unlocktime": 1792299588
     },
     {
       "apiname": "RepeatFirstTeleporter",
