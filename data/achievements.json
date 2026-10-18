@@ -1,10 +1,10 @@
 {
   "appid": 632360,
   "profile": "https://steamcommunity.com/id/Kelebr1an/",
-  "fetched_at": "2026-10-18T21:55:20Z",
+  "fetched_at": "2026-10-18T23:01:07Z",
   "total": 205,
-  "unlocked": 96,
-  "remaining": 109,
+  "unlocked": 102,
+  "remaining": 103,
   "achievements": [
     {
       "apiname": "AcolyteClearGameMonsoon",
@@ -381,15 +381,15 @@
       "apiname": "CrocoClearGameMonsoon",
       "name": "Acrid: Mastery",
       "description": "As Acrid, beat the game or obliterate on Monsoon.",
-      "achieved": 0,
-      "unlocktime": 0
+      "achieved": 1,
+      "unlocktime": 1792364359
     },
     {
       "apiname": "CrocoClearGameRestack",
       "name": "Acrid: Miracle",
       "description": "As Acrid, beat the game after sequencing your items at least once.",
-      "achieved": 0,
-      "unlocktime": 0
+      "achieved": 1,
+      "unlocktime": 1792364359
     },
     {
       "apiname": "CrocoClearMeridianEvent",
@@ -402,8 +402,8 @@
       "apiname": "CrocoKillScavenger",
       "name": "Acrid: Bad Medicine",
       "description": "As Acrid, land the final blow on a Scavenger.",
-      "achieved": 0,
-      "unlocktime": 0
+      "achieved": 1,
+      "unlocktime": 1792361779
     },
     {
       "apiname": "CrocoKillWeakEnemiesMilestone",
@@ -423,8 +423,8 @@
       "apiname": "CrocoTotalInfectionsMilestone",
       "name": "Acrid: Pandemic",
       "description": "As Acrid, inflict Poison 1000 total times.",
-      "achieved": 0,
-      "unlocktime": 0
+      "achieved": 1,
+      "unlocktime": 1792362817
     },
     {
       "apiname": "DefeatFalseSon",
@@ -815,8 +815,8 @@
       "apiname": "KillGoldTitanInOneCycle",
       "name": "Blackout",
       "description": "Defeat the unique guardian of Gilded Coast without any beacons deactivating.",
-      "achieved": 0,
-      "unlocktime": 0
+      "achieved": 1,
+      "unlocktime": 1792362581
     },
     {
       "apiname": "KillTotalEnemies",
@@ -1060,8 +1060,8 @@
       "apiname": "ObtainArtifactDevotion",
       "name": "Trial of Devotion",
       "description": "Complete the Trial of Devotion.",
-      "achieved": 0,
-      "unlocktime": 0
+      "achieved": 1,
+      "unlocktime": 1792361779
     },
     {
       "apiname": "ObtainArtifactEliteOnly",
