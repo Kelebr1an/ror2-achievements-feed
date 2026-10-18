@@ -1,10 +1,10 @@
 {
   "appid": 632360,
   "profile": "https://steamcommunity.com/id/Kelebr1an/",
-  "fetched_at": "2026-10-18T00:19:36Z",
+  "fetched_at": "2026-10-18T04:51:16Z",
   "total": 205,
-  "unlocked": 87,
-  "remaining": 118,
+  "unlocked": 90,
+  "remaining": 115,
   "achievements": [
     {
       "apiname": "AcolyteClearGameMonsoon",
@@ -1074,8 +1074,8 @@
       "apiname": "ObtainArtifactEnigma",
       "name": "Trial of Enigma",
       "description": "Complete the Trial of Enigma.",
-      "achieved": 0,
-      "unlocktime": 0
+      "achieved": 1,
+      "unlocktime": 1792297526
     },
     {
       "apiname": "ObtainArtifactFriendlyFire",
@@ -1179,8 +1179,8 @@
       "apiname": "RailgunnerAirborneMultiKill",
       "name": "Railgunner: Trickshot",
       "description": "As Railgunner, get 3 kills with a single Supercharge shot while airborne.",
-      "achieved": 0,
-      "unlocktime": 0
+      "achieved": 1,
+      "unlocktime": 1792284634
     },
     {
       "apiname": "RailgunnerClearGameHexes",
@@ -1207,8 +1207,8 @@
       "apiname": "RailgunnerConsecutiveWeakPoints",
       "name": "Railgunner: Marksman",
       "description": "As Railgunner, fire 30 consecutive sniper shots without missing a Weak Point.",
-      "achieved": 0,
-      "unlocktime": 0
+      "achieved": 1,
+      "unlocktime": 1792284767
     },
     {
       "apiname": "RailgunnerDealMassiveDamage",
