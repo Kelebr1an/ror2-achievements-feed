@@ -1,10 +1,10 @@
 {
   "appid": 632360,
   "profile": "https://steamcommunity.com/id/Kelebr1an/",
-  "fetched_at": "2026-10-18T09:41:25Z",
+  "fetched_at": "2026-10-18T13:36:03Z",
   "total": 205,
-  "unlocked": 93,
-  "remaining": 112,
+  "unlocked": 96,
+  "remaining": 109,
   "achievements": [
     {
       "apiname": "AcolyteClearGameMonsoon",
@@ -374,8 +374,8 @@
       "apiname": "CrocoClearChampRush",
       "name": "Acrid: Dying to Meet You",
       "description": "As Acrid, complete Soulbound Threshold before the 4th Teleporter event.",
-      "achieved": 0,
-      "unlocktime": 0
+      "achieved": 1,
+      "unlocktime": 1792321118
     },
     {
       "apiname": "CrocoClearGameMonsoon",
@@ -409,8 +409,8 @@
       "apiname": "CrocoKillWeakEnemiesMilestone",
       "name": "Acrid: Easy Prey",
       "description": "As Acrid, land the killing blow on 50 total enemies that have 1 hit point left.",
-      "achieved": 0,
-      "unlocktime": 0
+      "achieved": 1,
+      "unlocktime": 1792318530
     },
     {
       "apiname": "CrocoPurge",
@@ -1144,8 +1144,8 @@
       "apiname": "ObtainArtifactSingleMonsterType",
       "name": "Trial of Kin",
       "description": "Complete the Trial of Kin.",
-      "achieved": 0,
-      "unlocktime": 0
+      "achieved": 1,
+      "unlocktime": 1792322767
     },
     {
       "apiname": "ObtainArtifactSwarms",
