@@ -1,10 +1,10 @@
 {
   "appid": 632360,
   "profile": "https://steamcommunity.com/id/Kelebr1an/",
-  "fetched_at": "2026-10-21T01:01:27Z",
+  "fetched_at": "2026-10-21T06:05:05Z",
   "total": 205,
-  "unlocked": 102,
-  "remaining": 103,
+  "unlocked": 103,
+  "remaining": 102,
   "achievements": [
     {
       "apiname": "AcolyteClearGameMonsoon",
@@ -1039,8 +1039,8 @@
       "apiname": "ObtainArtifactBomb",
       "name": "Trial of Spite",
       "description": "Complete the Trial of Spite.",
-      "achieved": 0,
-      "unlocktime": 0
+      "achieved": 1,
+      "unlocktime": 1792558612
     },
     {
       "apiname": "ObtainArtifactCommand",
