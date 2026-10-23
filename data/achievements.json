@@ -1,10 +1,10 @@
 {
   "appid": 632360,
   "profile": "https://steamcommunity.com/id/Kelebr1an/",
-  "fetched_at": "2026-10-23T10:08:48Z",
+  "fetched_at": "2026-10-23T14:19:10Z",
   "total": 205,
-  "unlocked": 103,
-  "remaining": 102,
+  "unlocked": 112,
+  "remaining": 93,
   "achievements": [
     {
       "apiname": "AcolyteClearGameMonsoon",
@@ -325,8 +325,8 @@
       "apiname": "CompletePrismaticTrial",
       "name": "Prismatically Aligned",
       "description": "Complete a Prismatic Trial.",
-      "achieved": 0,
-      "unlocktime": 0
+      "achieved": 1,
+      "unlocktime": 1792756873
     },
     {
       "apiname": "CompleteTeleporter",
@@ -696,8 +696,8 @@
       "apiname": "FreeDrifter",
       "name": "Lost in Transit",
       "description": "",
-      "achieved": 0,
-      "unlocktime": 0
+      "achieved": 1,
+      "unlocktime": 1792764122
     },
     {
       "apiname": "FreeMage",
@@ -962,50 +962,50 @@
       "apiname": "MercClearGameHexes",
       "name": "Mercenary: Against All Odds",
       "description": "As Mercenary, complete a run while holding 10 Hexes.",
-      "achieved": 0,
-      "unlocktime": 0
+      "achieved": 1,
+      "unlocktime": 1792765109
     },
     {
       "apiname": "MercClearGameMonsoon",
       "name": "Mercenary: Mastery",
       "description": "As Mercenary, beat the game or obliterate on Monsoon.",
-      "achieved": 0,
-      "unlocktime": 0
+      "achieved": 1,
+      "unlocktime": 1792765109
     },
     {
       "apiname": "MercClearMeridianEvent",
       "name": "Mercenary: Cleared Prime Meridian",
       "description": "As Mercenary, complete the Event on Prime Meridian.",
-      "achieved": 0,
-      "unlocktime": 0
+      "achieved": 1,
+      "unlocktime": 1792759594
     },
     {
       "apiname": "MercCompleteTrialWithFullHealth",
       "name": "Mercenary: Ethereal",
       "description": "As Mercenary, complete a Prismatic Trial without falling below 100% health.",
-      "achieved": 0,
-      "unlocktime": 0
+      "achieved": 1,
+      "unlocktime": 1792756873
     },
     {
       "apiname": "MercDontTouchGround",
       "name": "Mercenary: Demon of the Skies",
       "description": "As Mercenary, don't touch the ground for 30 seconds.",
-      "achieved": 0,
-      "unlocktime": 0
+      "achieved": 1,
+      "unlocktime": 1792764523
     },
     {
       "apiname": "MercPurge",
       "name": "Mercenary: Purge",
       "description": "",
-      "achieved": 0,
-      "unlocktime": 0
+      "achieved": 1,
+      "unlocktime": 1792764122
     },
     {
       "apiname": "MercXSkillsInYSeconds",
       "name": "Mercenary: Flash of Blades",
       "description": "As Mercenary, use 20 abilities in 10 seconds.",
-      "achieved": 0,
-      "unlocktime": 0
+      "achieved": 1,
+      "unlocktime": 1792758981
     },
     {
       "apiname": "MoveSpeed",
