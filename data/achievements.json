@@ -1,10 +1,10 @@
 {
   "appid": 632360,
   "profile": "https://steamcommunity.com/id/Kelebr1an/",
-  "fetched_at": "2026-10-28T13:01:40Z",
+  "fetched_at": "2026-10-28T18:52:45Z",
   "total": 205,
-  "unlocked": 112,
-  "remaining": 93,
+  "unlocked": 115,
+  "remaining": 90,
   "achievements": [
     {
       "apiname": "AcolyteClearGameMonsoon",
@@ -241,8 +241,8 @@
       "apiname": "CommandoClearChampRush",
       "name": "Commando: Dying to Meet You",
       "description": "As Commando, complete Soulbound Threshold before the 4th Teleporter event.",
-      "achieved": 0,
-      "unlocktime": 0
+      "achieved": 1,
+      "unlocktime": 1793213200
     },
     {
       "apiname": "CommandoClearGameMonsoon",
@@ -255,8 +255,8 @@
       "apiname": "CommandoClearMeridianEvent",
       "name": "Commando: Cleared Prime Meridian",
       "description": "As Commando, complete the Event on Prime Meridian.",
-      "achieved": 0,
-      "unlocktime": 0
+      "achieved": 1,
+      "unlocktime": 1793209982
     },
     {
       "apiname": "CommandoFastFirstStageClear",
@@ -283,8 +283,8 @@
       "apiname": "CommandoPurge",
       "name": "Commando: Purge",
       "description": "",
-      "achieved": 0,
-      "unlocktime": 0
+      "achieved": 1,
+      "unlocktime": 1793213200
     },
     {
       "apiname": "Complete20Stages",
