@@ -1,10 +1,10 @@
 {
   "appid": 632360,
   "profile": "https://steamcommunity.com/id/Kelebr1an/",
-  "fetched_at": "2026-10-28T18:52:45Z",
+  "fetched_at": "2026-10-28T21:57:25Z",
   "total": 205,
-  "unlocked": 115,
-  "remaining": 90,
+  "unlocked": 116,
+  "remaining": 89,
   "achievements": [
     {
       "apiname": "AcolyteClearGameMonsoon",
@@ -248,8 +248,8 @@
       "apiname": "CommandoClearGameMonsoon",
       "name": "Commando: Mastery",
       "description": "As Commando, beat the game or obliterate on Monsoon.",
-      "achieved": 0,
-      "unlocktime": 0
+      "achieved": 1,
+      "unlocktime": 1793224556
     },
     {
       "apiname": "CommandoClearMeridianEvent",
