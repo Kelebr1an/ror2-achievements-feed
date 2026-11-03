@@ -1,10 +1,10 @@
 {
   "appid": 632360,
   "profile": "https://steamcommunity.com/id/Kelebr1an/",
-  "fetched_at": "2026-11-02T17:27:27Z",
+  "fetched_at": "2026-11-03T00:03:22Z",
   "total": 205,
-  "unlocked": 116,
-  "remaining": 89,
+  "unlocked": 117,
+  "remaining": 88,
   "achievements": [
     {
       "apiname": "AcolyteClearGameMonsoon",
@@ -1116,8 +1116,8 @@
       "apiname": "ObtainArtifactRandomSurvivorOnRespawn",
       "name": "Trial of Metamorphosis",
       "description": "Complete the Trial of Metamorphosis.",
-      "achieved": 0,
-      "unlocktime": 0
+      "achieved": 1,
+      "unlocktime": 1793661657
     },
     {
       "apiname": "ObtainArtifactRebirth",
