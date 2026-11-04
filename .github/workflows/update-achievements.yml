@@ -1,13 +1,7 @@
 name: Update achievements
 
 on:
-  schedule:
-    - cron: '17,47 * * * *'
   workflow_dispatch:
-  push:
-    branches: [main]
-    paths-ignore:
-      - 'data/**'
 
 permissions:
   contents: write
