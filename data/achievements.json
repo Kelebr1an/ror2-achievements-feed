@@ -1,10 +1,10 @@
 {
   "appid": 632360,
   "profile": "https://steamcommunity.com/id/Kelebr1an/",
-  "fetched_at": "2026-11-04T20:20:49Z",
+  "fetched_at": "2026-11-04T23:08:12Z",
   "total": 205,
-  "unlocked": 133,
-  "remaining": 72,
+  "unlocked": 141,
+  "remaining": 64,
   "achievements": [
     {
       "apiname": "AcolyteClearGameMonsoon",
@@ -1354,57 +1354,57 @@
       "apiname": "TreebotBigHeal",
       "name": "REX: Full of Life",
       "description": "As REX, heal for 1000 health at once.",
-      "achieved": 0,
-      "unlocktime": 0
+      "achieved": 1,
+      "unlocktime": 1793830415
     },
     {
       "apiname": "TreebotClearGameMonsoon",
       "name": "REX: Mastery",
       "description": "As REX, beat the game or obliterate on Monsoon.",
-      "achieved": 0,
-      "unlocktime": 0
+      "achieved": 1,
+      "unlocktime": 1793832520
     },
     {
       "apiname": "TreebotClearGameWithLunars",
       "name": "REX: Invasive Growth",
       "description": "As REX, beat the game with at least 5 different Lunar items.",
-      "achieved": 0,
-      "unlocktime": 0
+      "achieved": 1,
+      "unlocktime": 1793832520
     },
     {
       "apiname": "TreebotClearMeridianEvent",
       "name": "REX: Cleared Prime Meridian",
       "description": "As REX, complete the Event on Prime Meridian.",
-      "achieved": 0,
-      "unlocktime": 0
+      "achieved": 1,
+      "unlocktime": 1793831836
     },
     {
       "apiname": "TreebotClearUltima",
       "name": "REX: Memento Mori",
       "description": "As REX, defeat what lies beyond the door of Soulbound Threshold.",
-      "achieved": 0,
-      "unlocktime": 0
+      "achieved": 1,
+      "unlocktime": 1793830914
     },
     {
       "apiname": "TreebotDecompile",
       "name": "REX: Accept and Decompile",
       "description": "",
-      "achieved": 0,
-      "unlocktime": 0
+      "achieved": 1,
+      "unlocktime": 1793832520
     },
     {
       "apiname": "TreebotDunkClayBoss",
       "name": "REX: Dunked",
       "description": "As REX, kill a Clay Dunestrider on Abandoned Aqueduct by throwing it into a pit.",
-      "achieved": 0,
-      "unlocktime": 0
+      "achieved": 1,
+      "unlocktime": 1793833653
     },
     {
       "apiname": "TreebotLowHealthTeleporter",
       "name": "REX: Bushwhacked",
       "description": "As REX, complete an entire teleporter event while under 50% health.",
-      "achieved": 0,
-      "unlocktime": 0
+      "achieved": 1,
+      "unlocktime": 1793830385
     },
     {
       "apiname": "UnlockFalseSon",
