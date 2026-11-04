@@ -1,10 +1,10 @@
 {
   "appid": 632360,
   "profile": "https://steamcommunity.com/id/Kelebr1an/",
-  "fetched_at": "2026-11-04T16:09:05Z",
+  "fetched_at": "2026-11-04T18:51:55Z",
   "total": 205,
-  "unlocked": 121,
-  "remaining": 84,
+  "unlocked": 125,
+  "remaining": 80,
   "achievements": [
     {
       "apiname": "AcolyteClearGameMonsoon",
@@ -73,15 +73,15 @@
       "apiname": "Bandit2ClearMeridianEvent",
       "name": "Bandit: Cleared Prime Meridian",
       "description": "As Bandit, complete the Event on Prime Meridian.",
-      "achieved": 0,
-      "unlocktime": 0
+      "achieved": 1,
+      "unlocktime": 1793816118
     },
     {
       "apiname": "Bandit2ClearUltima",
       "name": "Bandit: Memento Mori",
       "description": "As Bandit, defeat what lies beyond the door of Soulbound Threshold.",
-      "achieved": 0,
-      "unlocktime": 0
+      "achieved": 1,
+      "unlocktime": 1793816681
     },
     {
       "apiname": "Bandit2ConsecutiveReset",
@@ -94,8 +94,8 @@
       "apiname": "Bandit2Decompile",
       "name": "Bandit: Accept and Decompile",
       "description": "",
-      "achieved": 0,
-      "unlocktime": 0
+      "achieved": 1,
+      "unlocktime": 1793817340
     },
     {
       "apiname": "Bandit2RevolverFinale",
@@ -108,8 +108,8 @@
       "apiname": "Bandit2StackSuperBleed",
       "name": "Bandit: Sadist",
       "description": "As Bandit, kill a monster with 20 stacks of Hemorrhage.",
-      "achieved": 0,
-      "unlocktime": 0
+      "achieved": 1,
+      "unlocktime": 1793817958
     },
     {
       "apiname": "BarbecueQuantityBisonInRun",
