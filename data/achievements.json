@@ -1,10 +1,10 @@
 {
   "appid": 632360,
   "profile": "https://steamcommunity.com/id/Kelebr1an/",
-  "fetched_at": "2026-11-04T03:04:43Z",
+  "fetched_at": "2026-11-04T16:06:11Z",
   "total": 205,
-  "unlocked": 117,
-  "remaining": 88,
+  "unlocked": 121,
+  "remaining": 84,
   "achievements": [
     {
       "apiname": "AcolyteClearGameMonsoon",
@@ -234,8 +234,8 @@
       "apiname": "CommandoBeatBrotherMaxKarma",
       "name": "Commando: Retribution",
       "description": "As Commando, defeat the final boss after earning 8 karma.",
-      "achieved": 0,
-      "unlocktime": 0
+      "achieved": 1,
+      "unlocktime": 1793762090
     },
     {
       "apiname": "CommandoClearChampRush",
@@ -731,15 +731,15 @@
       "apiname": "HuntressClearChampRush",
       "name": "Huntress: Dying to Meet You",
       "description": "As Huntress, complete Soulbound Threshold before the 4th Teleporter event.",
-      "achieved": 0,
-      "unlocktime": 0
+      "achieved": 1,
+      "unlocktime": 1793805859
     },
     {
       "apiname": "HuntressClearGameMonsoon",
       "name": "Huntress: Mastery",
       "description": "As Huntress, beat the game or obliterate on Monsoon.",
-      "achieved": 0,
-      "unlocktime": 0
+      "achieved": 1,
+      "unlocktime": 1793808258
     },
     {
       "apiname": "HuntressClearMeridianEvent",
@@ -773,8 +773,8 @@
       "apiname": "HuntressPurge",
       "name": "Huntress: Purge",
       "description": "",
-      "achieved": 0,
-      "unlocktime": 0
+      "achieved": 1,
+      "unlocktime": 1793806918
     },
     {
       "apiname": "KillBossQuantityInRun",
