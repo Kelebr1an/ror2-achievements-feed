@@ -1,10 +1,10 @@
 {
   "appid": 632360,
   "profile": "https://steamcommunity.com/id/Kelebr1an/",
-  "fetched_at": "2026-11-04T18:51:55Z",
+  "fetched_at": "2026-11-04T19:47:10Z",
   "total": 205,
-  "unlocked": 125,
-  "remaining": 80,
+  "unlocked": 128,
+  "remaining": 77,
   "achievements": [
     {
       "apiname": "AcolyteClearGameMonsoon",
@@ -1312,8 +1312,8 @@
       "apiname": "ToolbotClearMeridianEvent",
       "name": "MUL-T: Cleared Prime Meridian",
       "description": "As MUL-T, complete the Event on Prime Meridian.",
-      "achieved": 0,
-      "unlocktime": 0
+      "achieved": 1,
+      "unlocktime": 1793821564
     },
     {
       "apiname": "ToolbotGuardTeleporter",
@@ -1333,8 +1333,8 @@
       "apiname": "ToolbotPurge",
       "name": "MUL-T: Purge",
       "description": "",
-      "achieved": 0,
-      "unlocktime": 0
+      "achieved": 1,
+      "unlocktime": 1793821106
     },
     {
       "apiname": "TotalDronesRepaired",
@@ -1410,8 +1410,8 @@
       "apiname": "UnlockFalseSon",
       "name": "Purified Freedom",
       "description": "",
-      "achieved": 0,
-      "unlocktime": 0
+      "achieved": 1,
+      "unlocktime": 1793821563
     },
     {
       "apiname": "UseThreePortals",
