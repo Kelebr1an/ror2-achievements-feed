@@ -1,10 +1,10 @@
 {
   "appid": 632360,
   "profile": "https://steamcommunity.com/id/Kelebr1an/",
-  "fetched_at": "2026-11-04T19:47:10Z",
+  "fetched_at": "2026-11-04T20:20:49Z",
   "total": 205,
-  "unlocked": 128,
-  "remaining": 77,
+  "unlocked": 133,
+  "remaining": 72,
   "achievements": [
     {
       "apiname": "AcolyteClearGameMonsoon",
@@ -472,29 +472,29 @@
       "apiname": "DrifterClearGameMonsoon",
       "name": "Drifter: Mastery",
       "description": "",
-      "achieved": 0,
-      "unlocktime": 0
+      "achieved": 1,
+      "unlocktime": 1793823580
     },
     {
       "apiname": "DrifterJunkCubeAchievement",
       "name": "Drifter: Trash Compactor",
       "description": "As Drifter carry 20 temporary items at once.",
-      "achieved": 0,
-      "unlocktime": 0
+      "achieved": 1,
+      "unlocktime": 1793822443
     },
     {
       "apiname": "DrifterTinkerAchievement",
       "name": "Drifter: Leave No Trace",
       "description": "As Drifter claim the contents of the lost backpack in the vault of Solutional Haunt.",
-      "achieved": 0,
-      "unlocktime": 0
+      "achieved": 1,
+      "unlocktime": 1793823446
     },
     {
       "apiname": "DrifterTornadoSlamAchievement",
       "name": "Drifter: In The Bag",
       "description": "As Drifter defeat a boss from the challenge of the Mountain using a Shrine of the Mountain.",
-      "achieved": 0,
-      "unlocktime": 0
+      "achieved": 1,
+      "unlocktime": 1793822834
     },
     {
       "apiname": "DroneTechClearGameMonsoon",
@@ -1235,8 +1235,8 @@
       "apiname": "RescueTreebot",
       "name": "Power Plant",
       "description": "Repair the broken robot with an Escape Pod's Fuel Array.",
-      "achieved": 0,
-      "unlocktime": 0
+      "achieved": 1,
+      "unlocktime": 1793822696
     },
     {
       "apiname": "RolyPolyHitFiveAirEnemies",
