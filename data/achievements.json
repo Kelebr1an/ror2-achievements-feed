@@ -1,10 +1,10 @@
 {
   "appid": 632360,
   "profile": "https://steamcommunity.com/id/Kelebr1an/",
-  "fetched_at": "2026-11-05T00:06:57Z",
+  "fetched_at": "2026-11-05T04:04:54Z",
   "total": 205,
-  "unlocked": 151,
-  "remaining": 54,
+  "unlocked": 163,
+  "remaining": 42,
   "achievements": [
     {
       "apiname": "AcolyteClearGameMonsoon",
@@ -143,50 +143,50 @@
       "apiname": "CaptainBuyMegaDrone",
       "name": "Captain: Worth Every Penny",
       "description": "As Captain, repair and recruit a TC-280 Prototype.",
-      "achieved": 0,
-      "unlocktime": 0
+      "achieved": 1,
+      "unlocktime": 1793848279
     },
     {
       "apiname": "CaptainClearGameMonsoon",
       "name": "Captain: Mastery",
       "description": "As Captain, beat the game or obliterate on Monsoon.",
-      "achieved": 0,
-      "unlocktime": 0
+      "achieved": 1,
+      "unlocktime": 1793848415
     },
     {
       "apiname": "CaptainClearMeridianEvent",
       "name": "Captain: Cleared Prime Meridian",
       "description": "As Captain, complete the Event on Prime Meridian.",
-      "achieved": 0,
-      "unlocktime": 0
+      "achieved": 1,
+      "unlocktime": 1793848843
     },
     {
       "apiname": "CaptainClearUltima",
       "name": "Captain: Memento Mori",
       "description": "As Captain, defeat what lies beyond the door of Soulbound Threshold.",
-      "achieved": 0,
-      "unlocktime": 0
+      "achieved": 1,
+      "unlocktime": 1793847982
     },
     {
       "apiname": "CaptainDecompile",
       "name": "Captain: Accept and Decompile",
       "description": "",
-      "achieved": 0,
-      "unlocktime": 0
+      "achieved": 1,
+      "unlocktime": 1793848415
     },
     {
       "apiname": "CaptainSupplyDropFinale",
       "name": "Captain: Smushed",
       "description": "As Captain, kill the final boss using a Supply Beacon",
-      "achieved": 0,
-      "unlocktime": 0
+      "achieved": 1,
+      "unlocktime": 1793851440
     },
     {
       "apiname": "CaptainVisitSeveralStages",
       "name": "Captain: Wanderlust",
       "description": "As Captain, visit 10 different environments in a single run.",
-      "achieved": 0,
-      "unlocktime": 0
+      "achieved": 1,
+      "unlocktime": 1793849577
     },
     {
       "apiname": "CarryLunarItems",
@@ -892,8 +892,8 @@
       "apiname": "MageAirborneMultiKill",
       "name": "Artificer: Orbital Bombardment",
       "description": "As Artificer, kill 15 enemies before touching the ground.",
-      "achieved": 0,
-      "unlocktime": 0
+      "achieved": 1,
+      "unlocktime": 1793837671
     },
     {
       "apiname": "MageClearGameMonsoon",
@@ -906,22 +906,22 @@
       "apiname": "MageClearMeridianEvent",
       "name": "Artificer: Cleared Prime Meridian",
       "description": "As Artificer, complete the Event on Prime Meridian.",
-      "achieved": 0,
-      "unlocktime": 0
+      "achieved": 1,
+      "unlocktime": 1793838503
     },
     {
       "apiname": "MageClearUltima",
       "name": "Artificer: Memento Mori",
       "description": "As Artificer, defeat what lies beyond the door of Soulbound Threshold.",
-      "achieved": 0,
-      "unlocktime": 0
+      "achieved": 1,
+      "unlocktime": 1793837985
     },
     {
       "apiname": "MageDecompile",
       "name": "Artificer: Accept and Decompile",
       "description": "",
-      "achieved": 0,
-      "unlocktime": 0
+      "achieved": 1,
+      "unlocktime": 1793839092
     },
     {
       "apiname": "MageFastBoss",
@@ -1095,8 +1095,8 @@
       "apiname": "ObtainArtifactMixEnemy",
       "name": "Trial of Dissonance",
       "description": "Complete the Trial of Dissonance.",
-      "achieved": 0,
-      "unlocktime": 0
+      "achieved": 1,
+      "unlocktime": 1793849440
     },
     {
       "apiname": "ObtainArtifactMonsterTeamGainsItems",
