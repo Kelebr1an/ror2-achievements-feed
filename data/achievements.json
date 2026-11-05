@@ -1,10 +1,10 @@
 {
   "appid": 632360,
   "profile": "https://steamcommunity.com/id/Kelebr1an/",
-  "fetched_at": "2026-11-05T04:04:54Z",
+  "fetched_at": "2026-11-05T23:59:24Z",
   "total": 205,
-  "unlocked": 163,
-  "remaining": 42,
+  "unlocked": 170,
+  "remaining": 35,
   "achievements": [
     {
       "apiname": "AcolyteClearGameMonsoon",
@@ -535,43 +535,43 @@
       "apiname": "Enforcer2BlockXTeleporter",
       "name": "Enforcer: Safe and Sound",
       "description": "As Enforcer, block the attacks of 12 enemies during a single teleporter event.",
-      "achieved": 0,
-      "unlocktime": 0
+      "achieved": 1,
+      "unlocktime": 1793921400
     },
     {
       "apiname": "Enforcer2ClearChampRush",
       "name": "Enforcer: Dying to Meet You",
       "description": "As Enforcer, complete Soulbound Threshold before the 4th Teleporter event.",
-      "achieved": 0,
-      "unlocktime": 0
+      "achieved": 1,
+      "unlocktime": 1793921800
     },
     {
       "apiname": "Enforcer2ClearGameMonsoon",
       "name": "Enforcer: Mastery",
       "description": "As Enforcer, beat the game or obliterate on Monsoon.",
-      "achieved": 0,
-      "unlocktime": 0
+      "achieved": 1,
+      "unlocktime": 1793923128
     },
     {
       "apiname": "Enforcer2ParryVagrant",
       "name": "Enforcer: +PARRY",
       "description": "As Enforcer, parry a Wandering Vagrant's supernova.",
-      "achieved": 0,
-      "unlocktime": 0
+      "achieved": 1,
+      "unlocktime": 1793922626
     },
     {
       "apiname": "Enforcer2RepeatedlyDamageMagmaWorm",
       "name": "Enforcer: Burning Lead",
       "description": "As Enforcer, shoot a Magma Worm 24 times in 12 seconds.",
-      "achieved": 0,
-      "unlocktime": 0
+      "achieved": 1,
+      "unlocktime": 1793923092
     },
     {
       "apiname": "Enforcer2TankTitanLaser",
       "name": "Enforcer: Indomitable",
       "description": "As Enforcer, survive an entire Stone Titan's laser without blocking.",
-      "achieved": 0,
-      "unlocktime": 0
+      "achieved": 1,
+      "unlocktime": 1793921500
     },
     {
       "apiname": "EngiArmy",
@@ -1172,8 +1172,8 @@
       "apiname": "ObtainArtifactWispOnDeath",
       "name": "Trial of Soul",
       "description": "Complete the Trial of Soul.",
-      "achieved": 0,
-      "unlocktime": 0
+      "achieved": 1,
+      "unlocktime": 1793922113
     },
     {
       "apiname": "RailgunnerAirborneMultiKill",
