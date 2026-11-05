@@ -1,10 +1,10 @@
 {
   "appid": 632360,
   "profile": "https://steamcommunity.com/id/Kelebr1an/",
-  "fetched_at": "2026-11-04T23:08:12Z",
+  "fetched_at": "2026-11-05T00:06:57Z",
   "total": 205,
-  "unlocked": 141,
-  "remaining": 64,
+  "unlocked": 151,
+  "remaining": 54,
   "achievements": [
     {
       "apiname": "AcolyteClearGameMonsoon",
@@ -206,8 +206,8 @@
       "apiname": "ChargeTeleporterWhileNearDeath",
       "name": "Glorious Battle",
       "description": "Charge the Teleporter with less than 10% health.",
-      "achieved": 0,
-      "unlocktime": 0
+      "achieved": 1,
+      "unlocktime": 1793835993
     },
     {
       "apiname": "ChefClearChampRush",
@@ -598,8 +598,8 @@
       "apiname": "EngiClearMeridianEvent",
       "name": "Engineer: Cleared Prime Meridian",
       "description": "As Engineer, complete the Event on Prime Meridian.",
-      "achieved": 0,
-      "unlocktime": 0
+      "achieved": 1,
+      "unlocktime": 1793834672
     },
     {
       "apiname": "EngiClearTeleporterWithZeroMonsters",
@@ -612,22 +612,22 @@
       "apiname": "EngiClearUltima",
       "name": "Engineer: Memento Mori",
       "description": "As Engineer, defeat what lies beyond the door of Soulbound Threshold.",
-      "achieved": 0,
-      "unlocktime": 0
+      "achieved": 1,
+      "unlocktime": 1793834441
     },
     {
       "apiname": "EngiKillBossQuick",
       "name": "Engineer: 100% Calculated",
       "description": "As Engineer, defeat the teleporter boss in less than 5 seconds after it spawns.",
-      "achieved": 0,
-      "unlocktime": 0
+      "achieved": 1,
+      "unlocktime": 1793834114
     },
     {
       "apiname": "EngiPurge",
       "name": "Engineer: Purge",
       "description": "",
-      "achieved": 0,
-      "unlocktime": 0
+      "achieved": 1,
+      "unlocktime": 1793835175
     },
     {
       "apiname": "FailShrineChance",
@@ -1032,8 +1032,8 @@
       "apiname": "NukeSojourn",
       "name": "Seeker: Scorched Earth",
       "description": "Deal 500,000% damage with one use of Sojourn's explosion",
-      "achieved": 0,
-      "unlocktime": 0
+      "achieved": 1,
+      "unlocktime": 1793835633
     },
     {
       "apiname": "ObtainArtifactBomb",
@@ -1249,29 +1249,29 @@
       "apiname": "SeekerAirMultiHit",
       "name": "Seeker: Airborne Souls",
       "description": "As Seeker, hit three or more airborne enemies with a single use of the exploding third hit of Spirit Punch.",
-      "achieved": 0,
-      "unlocktime": 0
+      "achieved": 1,
+      "unlocktime": 1793835842
     },
     {
       "apiname": "SeekerClearChampRush",
       "name": "Seeker: Dying to Meet You",
       "description": "As Seeker, complete Soulbound Threshold before the 4th Teleporter event.",
-      "achieved": 0,
-      "unlocktime": 0
+      "achieved": 1,
+      "unlocktime": 1793836365
     },
     {
       "apiname": "SeekerClearGameMonsoon",
       "name": "Seeker: Mastery",
       "description": "As Seeker, beat the game or obliterate on Monsoon.",
-      "achieved": 0,
-      "unlocktime": 0
+      "achieved": 1,
+      "unlocktime": 1793836794
     },
     {
       "apiname": "SeekerPerfect20Meditation",
       "name": "Seeker: Clear Mind",
       "description": "As Seeker, meditate 20 times without missing an input in a single run.",
-      "achieved": 0,
-      "unlocktime": 0
+      "achieved": 1,
+      "unlocktime": 1793836403
     },
     {
       "apiname": "StayAlive1",
