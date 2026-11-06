@@ -1,45 +1,45 @@
 {
   "appid": 632360,
   "profile": "https://steamcommunity.com/id/Kelebr1an/",
-  "fetched_at": "2026-11-05T23:59:24Z",
+  "fetched_at": "2026-11-06T01:05:22Z",
   "total": 205,
-  "unlocked": 170,
-  "remaining": 35,
+  "unlocked": 179,
+  "remaining": 26,
   "achievements": [
     {
       "apiname": "AcolyteClearGameMonsoon",
       "name": "Acolyte: Mastery",
       "description": "As Acolyte, beat the game or obliterate on Monsoon.",
-      "achieved": 0,
-      "unlocktime": 0
+      "achieved": 1,
+      "unlocktime": 1793927060
     },
     {
       "apiname": "AcolyteClearUltima",
       "name": "Acolyte: Memento Mori",
       "description": "As Acolyte, defeat what lies beyond the door of Soulbound Threshold.",
-      "achieved": 0,
-      "unlocktime": 0
+      "achieved": 1,
+      "unlocktime": 1793927009
     },
     {
       "apiname": "AcolyteJuggleLemurian",
       "name": "Acolyte: Not Even Close",
       "description": "As Acolyte, keep an Elder Lemurian airborne for 11 seconds.",
-      "achieved": 0,
-      "unlocktime": 0
+      "achieved": 1,
+      "unlocktime": 1793925727
     },
     {
       "apiname": "AcolyteReaperMultiKill",
       "name": "Acolyte: Bloodbath",
       "description": "As Acolyte, kill 15 enemies within one transformation into the Anima Harvester.",
-      "achieved": 0,
-      "unlocktime": 0
+      "achieved": 1,
+      "unlocktime": 1793926525
     },
     {
       "apiname": "AcolyteUniqueSacrifices",
       "name": "Acolyte: Hit List",
       "description": "As Acolyte, land a killing blow with Sacrifice on 20 different types of monsters in a single run.",
-      "achieved": 0,
-      "unlocktime": 0
+      "achieved": 1,
+      "unlocktime": 1793926654
     },
     {
       "apiname": "ActivateChef",
@@ -836,8 +836,8 @@
       "apiname": "LoaderClearGameHexes",
       "name": "Loader: Against All Odds",
       "description": "As Loader, complete a run while holding 10 Hexes.",
-      "achieved": 0,
-      "unlocktime": 0
+      "achieved": 1,
+      "unlocktime": 1793924847
     },
     {
       "apiname": "LoaderClearGameMonsoon",
@@ -850,15 +850,15 @@
       "apiname": "LoaderClearMeridianEvent",
       "name": "Loader: Cleared Prime Meridian",
       "description": "As Loader, complete the Event on Prime Meridian.",
-      "achieved": 0,
-      "unlocktime": 0
+      "achieved": 1,
+      "unlocktime": 1793924019
     },
     {
       "apiname": "LoaderDecompile",
       "name": "Loader: Accept and Decompile",
       "description": "",
-      "achieved": 0,
-      "unlocktime": 0
+      "achieved": 1,
+      "unlocktime": 1793924847
     },
     {
       "apiname": "LoaderKillLoaders",
@@ -871,8 +871,8 @@
       "apiname": "LoaderSpeedRun",
       "name": "Loader: Swing By",
       "description": "As Loader, reach and proceed through the Celestial Portal in 25 minutes or less.",
-      "achieved": 0,
-      "unlocktime": 0
+      "achieved": 1,
+      "unlocktime": 1793924239
     },
     {
       "apiname": "LogCollector",
