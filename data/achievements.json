@@ -1,10 +1,10 @@
 {
   "appid": 632360,
   "profile": "https://steamcommunity.com/id/Kelebr1an/",
-  "fetched_at": "2026-11-06T01:05:22Z",
+  "fetched_at": "2026-11-06T02:11:23Z",
   "total": 205,
-  "unlocked": 179,
-  "remaining": 26,
+  "unlocked": 188,
+  "remaining": 17,
   "achievements": [
     {
       "apiname": "AcolyteClearGameMonsoon",
@@ -136,8 +136,8 @@
       "apiname": "BurnToDeath",
       "name": "Warm For Life",
       "description": "Die three times while burning.",
-      "achieved": 0,
-      "unlocktime": 0
+      "achieved": 1,
+      "unlocktime": 1793930693
     },
     {
       "apiname": "CaptainBuyMegaDrone",
@@ -395,8 +395,8 @@
       "apiname": "CrocoClearMeridianEvent",
       "name": "Acrid: Cleared Prime Meridian",
       "description": "As Acrid, complete the Event on Prime Meridian.",
-      "achieved": 0,
-      "unlocktime": 0
+      "achieved": 1,
+      "unlocktime": 1793927479
     },
     {
       "apiname": "CrocoKillScavenger",
@@ -416,8 +416,8 @@
       "apiname": "CrocoPurge",
       "name": "Acrid: Purge",
       "description": "",
-      "achieved": 0,
-      "unlocktime": 0
+      "achieved": 1,
+      "unlocktime": 1793928691
     },
     {
       "apiname": "CrocoTotalInfectionsMilestone",
@@ -500,36 +500,36 @@
       "apiname": "DroneTechClearGameMonsoon",
       "name": "Operator: Mastery",
       "description": "",
-      "achieved": 0,
-      "unlocktime": 0
+      "achieved": 1,
+      "unlocktime": 1793931048
     },
     {
       "apiname": "DroneTechDefeatVultureBossWhileAirborne",
       "name": "Operator: Not So Different",
       "description": "As Operator defeat the teleporter boss on Conduit Canyon without touching the ground.",
-      "achieved": 0,
-      "unlocktime": 0
+      "achieved": 1,
+      "unlocktime": 1793929600
     },
     {
       "apiname": "DroneTechJuggleLemurian",
       "name": "Operator: That Just Happened",
       "description": "As Operator keep an Elder Lemurian airborne for 10 seconds.",
-      "achieved": 0,
-      "unlocktime": 0
+      "achieved": 1,
+      "unlocktime": 1793930392
     },
     {
       "apiname": "DroneTechTrickshot",
       "name": "Operator: That All You Got?",
       "description": "As Operator kill 4 different types of monsters with a single ricochet.",
-      "achieved": 0,
-      "unlocktime": 0
+      "achieved": 1,
+      "unlocktime": 1793929382
     },
     {
       "apiname": "DroneTechUniqueDrones",
       "name": "Operator: Putting Together a Team",
       "description": "As Operator recruit 5 different drones.",
-      "achieved": 0,
-      "unlocktime": 0
+      "achieved": 1,
+      "unlocktime": 1793929570
     },
     {
       "apiname": "Enforcer2BlockXTeleporter",
@@ -1081,8 +1081,8 @@
       "apiname": "ObtainArtifactFriendlyFire",
       "name": "Trial of Chaos",
       "description": "Complete the Trial of Chaos.",
-      "achieved": 0,
-      "unlocktime": 0
+      "achieved": 1,
+      "unlocktime": 1793928121
     },
     {
       "apiname": "ObtainArtifactGlass",
