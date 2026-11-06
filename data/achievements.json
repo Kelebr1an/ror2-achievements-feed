@@ -1,10 +1,10 @@
 {
   "appid": 632360,
   "profile": "https://steamcommunity.com/id/Kelebr1an/",
-  "fetched_at": "2026-11-06T02:11:23Z",
+  "fetched_at": "2026-11-06T04:10:28Z",
   "total": 205,
-  "unlocked": 188,
-  "remaining": 17,
+  "unlocked": 203,
+  "remaining": 2,
   "achievements": [
     {
       "apiname": "AcolyteClearGameMonsoon",
@@ -115,8 +115,8 @@
       "apiname": "BarbecueQuantityBisonInRun",
       "name": "CHEF: Barbecued Bison Recipe Complete",
       "description": "As CHEF complete 10 recipes by searing an oiled bison with Sear.",
-      "achieved": 0,
-      "unlocktime": 0
+      "achieved": 1,
+      "unlocktime": 1793933732
     },
     {
       "apiname": "BeatArena",
@@ -129,8 +129,8 @@
       "apiname": "BurnMithrix",
       "name": "CHEF: It’s Getting Hot In Here!",
       "description": "As CHEF apply 20 stacks of Burn at once to the final boss.",
-      "achieved": 0,
-      "unlocktime": 0
+      "achieved": 1,
+      "unlocktime": 1793934598
     },
     {
       "apiname": "BurnToDeath",
@@ -213,15 +213,15 @@
       "apiname": "ChefClearChampRush",
       "name": "CHEF: Dying to Meet You",
       "description": "As CHEF, complete Soulbound Threshold before the 4th Teleporter event.",
-      "achieved": 0,
-      "unlocktime": 0
+      "achieved": 1,
+      "unlocktime": 1793934122
     },
     {
       "apiname": "ChefClearGameMonsoon",
       "name": "CHEF: Mastery",
       "description": "As CHEF, beat the game or obliterate on Monsoon.",
-      "achieved": 0,
-      "unlocktime": 0
+      "achieved": 1,
+      "unlocktime": 1793934861
     },
     {
       "apiname": "CleanupDuty",
@@ -640,36 +640,36 @@
       "apiname": "FalseSonClearGameHexes",
       "name": "False Son: Against All Odds",
       "description": "As False Son, complete a run while holding 10 Hexes.",
-      "achieved": 0,
-      "unlocktime": 0
+      "achieved": 1,
+      "unlocktime": 1793938187
     },
     {
       "apiname": "FalseSonClearGameMonsoon",
       "name": "False Son: Mastery",
       "description": "As False Son, beat the game or obliterate on Monsoon.",
-      "achieved": 0,
-      "unlocktime": 0
+      "achieved": 1,
+      "unlocktime": 1793938186
     },
     {
       "apiname": "FalseSonGrowthChallenge",
       "name": "False Son: Protein Heavy Diet",
       "description": "As False Son, gain up to 40 Lunar Spikes through Growth.",
-      "achieved": 0,
-      "unlocktime": 0
+      "achieved": 1,
+      "unlocktime": 1793937744
     },
     {
       "apiname": "FalseSonKillMithrixWithGoldenGal",
       "name": "False Son: Family Bonding",
       "description": "As False Son, have Aurelionite kill the final boss while the final boss is inflicted with at least one Lunar Ruin.",
-      "achieved": 0,
-      "unlocktime": 0
+      "achieved": 1,
+      "unlocktime": 1793938159
     },
     {
       "apiname": "FalseSonLaserMultiKill",
       "name": "False Son: Stare Them Down",
       "description": "As False Son, kill 15 enemies with one activation of Laser of the Father.",
-      "achieved": 0,
-      "unlocktime": 0
+      "achieved": 1,
+      "unlocktime": 1793936084
     },
     {
       "apiname": "FindDevilAltar",
@@ -1109,8 +1109,8 @@
       "apiname": "ObtainArtifactPrestige",
       "name": "Trial of Prestige",
       "description": "Complete the Trial of Prestige",
-      "achieved": 0,
-      "unlocktime": 0
+      "achieved": 1,
+      "unlocktime": 1793936589
     },
     {
       "apiname": "ObtainArtifactRandomSurvivorOnRespawn",
@@ -1200,8 +1200,8 @@
       "apiname": "RailgunnerClearMeridianEvent",
       "name": "Railgunner: Cleared Prime Meridian",
       "description": "As Railgunner, complete the Event on Prime Meridian.",
-      "achieved": 0,
-      "unlocktime": 0
+      "achieved": 1,
+      "unlocktime": 1793931322
     },
     {
       "apiname": "RailgunnerConsecutiveWeakPoints",
@@ -1242,8 +1242,8 @@
       "apiname": "RolyPolyHitFiveAirEnemies",
       "name": "CHEF: You’ve Always Been Crazy",
       "description": "As CHEF hit five airborne enemies with one instance of Roll.",
-      "achieved": 0,
-      "unlocktime": 0
+      "achieved": 1,
+      "unlocktime": 1793931873
     },
     {
       "apiname": "SeekerAirMultiHit",
@@ -1424,22 +1424,22 @@
       "apiname": "VoidSurvivorClearGameHexes",
       "name": "?V??oid Fiend?: Against All Odds",
       "description": "As ?V??oid Fiend?, complete a run while holding 10 Hexes.",
-      "achieved": 0,
-      "unlocktime": 0
+      "achieved": 1,
+      "unlocktime": 1793935217
     },
     {
       "apiname": "VoidSurvivorClearGameMonsoon",
       "name": "「V??oid Fiend』: Mastery",
       "description": "As 「V??oid Fiend』, beat the game or obliterate on Monsoon.",
-      "achieved": 0,
-      "unlocktime": 0
+      "achieved": 1,
+      "unlocktime": 1793935216
     },
     {
       "apiname": "VoidSurvivorClearMeridianEvent",
       "name": "Void Fiend: Cleared Prime Meridian",
       "description": "As Void Fiend, complete the Event on Prime Meridian.",
-      "achieved": 0,
-      "unlocktime": 0
+      "achieved": 1,
+      "unlocktime": 1793935208
     }
   ]
 }
